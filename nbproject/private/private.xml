@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/PGMSV2/web/updateProfile.jsp</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/PGMSV2/web/managePayments.jsp</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/PGMSV2/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/PGMSV2/src/java/com/utils/ConnectionUtils.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/PGMSV2/web/userAppointment.jsp</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/PGMSV2/src/java/com/dao/UserDAO.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/PGMSV2/web/paymentPage.jsp</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/PGMSV2/src/java/com/model/users.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/PGMSV2/web/userRegister.jsp</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/PGMSV2/web/product-list.jsp</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/PGMSV2/web/userLogin.jsp</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/PGMSV2/web/product-form.jsp</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/PGMSV2/web/userProductList.jsp</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/PGMSV2/src/java/com/controller/UserServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
